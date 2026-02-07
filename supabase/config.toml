@@ -1,0 +1,7 @@
+project_id = "okopgujvudjhsnuyprzd"
+
+[functions.daily-rooms]
+verify_jwt = false
+
+[functions.meeting-ai]
+verify_jwt = false
